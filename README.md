@@ -1,6 +1,6 @@
 
 ### 👋 Hi, I’m @ibelieve003
-### 👀 I’m interested in all kinds of new technologies
+<!-- ### 👀 I’m interested in all kinds of new technologies -->
 ### 📫 email - ibiswas003@gmail.com
 
 <!--
