@@ -1,4 +1,7 @@
-### Hi there 👋
+
+### 👋 Hi, I’m @ibelieve003
+### 👀 I’m interested in all kinds of new technologies
+### 📫 email - ibiswas003@gmail.com
 
 <!--
 **ibelieve003/ibelieve003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
